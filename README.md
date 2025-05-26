@@ -22,6 +22,16 @@
 
 📚 Learning: Flask, Django, React
 
+#My projects:
+
+1. python Quiz Application -: https://github.com/MohmmedFurqaan/Python-Quiz-Application
+
+2. car price predictor -: https://github.com/MohmmedFurqaan/car-price-prediction
+
+3. shoes website (ecomerce) -: https://github.com/MohmmedFurqaan/Shoes-Website
+
+4. Webscrapping -: https://github.com/MohmmedFurqaan/Shoes-Website
+
 
 📫 Connect with Me
 
