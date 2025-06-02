@@ -2,10 +2,10 @@
 
 🎓 Diploma Student in Computer Engineering | 💻 Python Enthusiast
 
-🚀 About Me
+**🚀 About Me**
 
 
-👀 Passionate about Python programming and software development
+👀 Passionate about Python programming and Machine learning engineer
 
 🌱 Currently expanding my knowledge in computer engineering
 
@@ -14,23 +14,25 @@
 💡 Always eager to collaborate and learn from others
 
 
-💻 Tech Stack
+**💻 Tech Stack**
 
-🚀 Languages: Python, JavaScript, HTML, CSS
+Experstise: CLI Application, Python Application, data cleaning, Machine learning
 
-⚙️ Tools: Git, VS Code, Linux
+🚀 Languages: Python, JavaScript, HTML, CSS, C
 
-📚 Learning: Flask, Django, React
+⚙️ Tools: Git, VS Code
 
-#My projects:
+**📚 Learning: Flask, Django, python, html5, css, Javascript, data cleaning, machine learning**
 
-1. python Quiz Application -: https://github.com/MohmmedFurqaan/Python-Quiz-Application
+**#My projects:**
 
-2. car price predictor -: https://github.com/MohmmedFurqaan/car-price-prediction
+1. **python Quiz Application** -: https://github.com/MohmmedFurqaan/Quiz-Application.git
 
-3. shoes website (ecomerce) -: https://github.com/MohmmedFurqaan/Shoes-Website
+2. **car price predictor** -: https://github.com/MohmmedFurqaan/car-price-prediction
 
-4. Webscrapping -: https://github.com/MohmmedFurqaan/Shoes-Website
+3. **shoes website (ecomerce)** -: https://github.com/MohmmedFurqaan/Shoes-Website
+
+4. **Webscrapping** -: https://github.com/MohmmedFurqaan/Shoes-Website
 
 
 📫 Connect with Me
