@@ -1,46 +1,48 @@
-👋 Hi, I’m Mohmmed Furqaan
+# MohmmedFurqaan's GitHub Profile README
 
-🎓 Diploma Student in Computer Engineering | 💻 Python Enthusiast
+## Introduction
+Hey there! I'm MohmmedFurqaan, a passionate coder continuously enhancing my skills and exploring diverse programming domains. With a strong commitment to self-improvement, I enjoy working on a variety of projects to challenge myself and learn new technologies.
 
-**🚀 About Me**
+## Skills & Expertise
+```javascript
+const furqaan = {
+  pronouns: "He" | "Him",
+  code: ["Python", "HTML", "CSS", "JavaScript"],
+  askMeAbout: ["web dev", "data analysis", "machine learning"],
+  technologies: {
+    backEnd: {
+      python: ["Django"],
+    },
+    frontEnd: ["React"],
+    databases: ["SQLite", "MySQL"],
+    tools: ["Git", "Jupyter Notebook"],
+  },
+  architecture: ["MVC Pattern", "RESTful APIs"],
+  currentFocus: "Advancing skills in data science and web development",
+  funFact: "Coding is an art of turning imagination into reality!"
+};
+```
 
+## Project Showcase
+Explore some of my notable projects:
+- [Quiz Application](https://github.com/MohmmedFurqaan/Quiz-Application)
+- [Car Price Prediction](https://github.com/MohmmedFurqaan/car-price-prediction)
+- [Web Scrapper](https://github.com/MohmmedFurqaan/webScrapper)
 
-👀 Passionate about Python programming and Machine learning engineer
+## GitHub Stats
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedFurqaan)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=MohmmedFurqaan)](https://github.com/MohmmedFurqaan)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=MohmmedFurqaan)](https://git.io/streak-stats)
 
-🌱 Currently expanding my knowledge in computer engineering
+## Get in Touch
+- LinkedIn: [Connect with me](#) 
+- Twitter: [@Furqaan123](#)
 
-🔍 Exploring new technologies and working on exciting projects
+Let's connect and collaborate on exciting coding projects! Feel free to reach out for any queries or just to say hi 🚀
 
-💡 Always eager to collaborate and learn from others
+---
 
+Thank you for visiting my GitHub profile. Keep coding and have a great day! 🌟
 
-**💻 Tech Stack**
-
-Experstise: CLI Application, Python Application, data cleaning, Machine learning
-
-🚀 Languages: Python, JavaScript, HTML, CSS, C
-
-⚙️ Tools: Git, VS Code
-
-**📚 Learning: Flask, Django, python, html5, css, Javascript, data cleaning, machine learning**
-
-**#My projects:**
-
-1. **python Quiz Application** -: https://github.com/MohmmedFurqaan/Quiz-Application.git
-
-2. **car price predictor** -: https://github.com/MohmmedFurqaan/car-price-prediction
-
-3. **shoes website (ecomerce)** -: https://github.com/MohmmedFurqaan/Shoes-Website
-
-4. **Webscrapping** -: https://github.com/MohmmedFurqaan/Shoes-Website
-
-
-📫 Connect with Me
-
-GitHub: @MohmmedFurqaan
-
-LinkedIn: https://www.linkedin.com/in/furqaan-motiwala-57b7b6340
-
-Email: mmftdec@gmail.com
-
-🔥 GitHub Stats
+<!-- Feel free to add more elements like GIFs, images, and personal badges for more visual appeal -->
