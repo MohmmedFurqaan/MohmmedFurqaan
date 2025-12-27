@@ -9,7 +9,13 @@
 
 ## 🚀 Top Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&layout=compact)
+-## GitHub Insights
+
+46
+
+47 -! [GitHub stats] (https://github-readme -stats.vercel.app/api?username= MohmmedFurqaan&show_icons=true&theme= radical)
+
+48 -! [Top languages] (https://github-readme -stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&layout=compact& theme=radical)
 
 
 # 📊 GitHub Stats:
