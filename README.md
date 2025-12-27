@@ -7,15 +7,15 @@
 
 🔭 I’m currently working on Software Engineering <br>👯 I’m looking to collaborate on AI and Ml Algorithms<br>🌱 I’m currently learning Software Engineering<br>
 
-## 🚀 Top Languages Used
 
 -## GitHub Insights
 
-46
 
-47 -! [GitHub stats] (https://github-readme -stats.vercel.app/api?username= MohmmedFurqaan&show_icons=true&theme= radical)
+[GitHub stats] (https://github-readme -stats.vercel.app/api?username= MohmmedFurqaan&show_icons=true&theme= radical)
 
-48 -! [Top languages] (https://github-readme -stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&layout=compact& theme=radical)
+## 🚀 Top Languages Used
+
+[Top languages] (https://github-readme -stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&layout=compact& theme=radical)
 
 
 # 📊 GitHub Stats:
