@@ -11,6 +11,8 @@
 ## GitHub Insights
 ![MohmmedFurqaan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohmmedFurqaan&theme=github-compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&show_icons=true&theme=github_dark)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&show_iconstrue&theme=radical)
 
