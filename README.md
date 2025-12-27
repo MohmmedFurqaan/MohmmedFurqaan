@@ -1,59 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=600&lines=I'm+Furqaan+Motiwala;Python+Developer+%7C+ML)](https://git.io/typing-svg)
- 
-
-📍 Surat, Gujarat, India | Diploma in Computer Science & Engineering (Tapi Diploma Engineering College)  | Python Developer | Machine Learning Engineer
-
----
-
-## 🧠 About Me  
-I am a dedicated and detail-oriented developer with a strong foundation in **Python**, **API integration**, and **web technologies**.  
-My work focuses on developing scalable, efficient, and user-friendly applications while continuously expanding my knowledge in **Machine Learning** and data-driven systems.  
-
-I believe in writing clean, maintainable code and delivering software solutions that are both technically sound and practically impactful.  
-
----
-
-## 🚀 Featured Projects  
-
-### 🧩 **Quiz BOT**  
-**Tech Stack:** Python  
-An interactive quiz platform designed for both learners and administrators.  
-The Bot can coduct the quiz with the proper handling (Keeping track of the User Score)
-Currently working on it for expanding the functionality
-> _Implements structured data storage and secure backend logic for python-telegram-bot._
-
----
-
-## 🛠 Technical Skills  
-
-| Category | Technologies |
-|-----------|--------------|
-| **Programming Languages** | Python, C |
-| **Web Technologies** | HTML, CSS, Flask, API |
-| **Databases** | SQL, Oracle 11g |
-| **Data Analysis & Visualization** | Pandas, Matplotlib, Numpy |
-| **Current Focus** | Machine Learning & Data Science |
-
----
-
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MohmmedFurqaan&theme=radical&no-frame=true&margin-w=10&margin-h=10)
-
----
-
-## 📈 GitHub Insights  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&show_icons=true&theme=radical)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&layout=compact&theme=radical)  
+# 💫 About Me:
+🔭 I’m currently working on Software Engineering <br>👯 I’m looking to collaborate on AI and Ml Algorithms<br>🌱 I’m currently learning Software Engineering<br>
 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MohmmedFurqaan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedFurqaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧩 Continuous Learning  
-I am constantly exploring the evolving landscape of **machine learning**, **Data Science** —  
-with a focus on creating reliable, efficient, and intelligent software systems.
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MohmmedFurqaan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-_“Code with clarity. Build with purpose.”_  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
