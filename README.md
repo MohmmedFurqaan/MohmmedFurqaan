@@ -11,7 +11,7 @@
 -## GitHub Insights
 
 
-[GitHub stats] (https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&show_iconstrue&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohmmedFurqaan&show_iconstrue&theme=radical)
 
 ## 🚀 Top Languages Used
 
